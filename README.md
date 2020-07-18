@@ -1,4 +1,14 @@
 ## My Custom changes to Brian Advent's Interactive Card View Animation to be used in the app, Raven.
+Muhammad Usman Nazir
+
+
+--------------------
+
+
+
+
+
+
 
 # iOS Swift Tutorial: Interactive Card View Animation with UIPropertyAnimator
 
